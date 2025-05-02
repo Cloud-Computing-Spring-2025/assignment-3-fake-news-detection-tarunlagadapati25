@@ -1,0 +1,501 @@
+id,title,filtered_words_str,label
+R129,New Report on Election,"prevent,believe,factor.,give,network,past,forward,within,wait,improve.,rest,report,often,religious,ahead,nature.,nothing,interview,detail,water,suggest.,experts,discuss,ongoing,developments,election.",REAL
+R227,New Report on Climate Change,"evidence,wonder,summer,fill.,rest,mouth,decide,growth,available.,force,whatever,measure.,experts,discuss,ongoing,developments,climate,change.",REAL
+F231,Aliens Confirmed by Sources,"fact,blue,main,identify,energy.,hotel,build,color.,—,shocking,claims,aliens,surface,internet.",FAKE
+R066,New Report on Policy,"general,affect,save.,simply,many,smile,quality,life,dark,court.,experts,discuss,ongoing,developments,policy.",REAL
+F095,Mind Control Confirmed by Sources,"night,country,possible,challenge.,large,wonder,toward,even,tell.,wide,cause,office,teacher,newspaper.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R174,New Report on Policy,"attack,perhaps,seven.,matter,billion,choice,get,room,election.,experts,discuss,ongoing,developments,policy.",REAL
+R201,New Report on Public Health,"natural,reason,word,anything,want,hair,peace,generation.,value,leg,administration,near,artist.,experts,discuss,ongoing,developments,public,health.",REAL
+R072,New Report on Education,"agency,common,always,capital.,argue,day,blue,mission,future.,experts,discuss,ongoing,developments,education.",REAL
+R064,New Report on Research,"call,around,activity,eye,responsibility.,produce,increase,camera.,give,glass,environment,general,population.,experts,discuss,ongoing,developments,research.",REAL
+F037,Miracle Drug Confirmed by Sources,"life,may,suggest,stage,fly,focus.,notice,prevent,tell,discover,kind,film.,reason,according,manager,beautiful.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R170,New Report on Technology Breakthrough,"heart,rest,can.,chance,good,five,school,factor,onto.,mother,personal,space,message,government,health,white.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F110,Celebrity Scandal Confirmed by Sources,"mr,crime,purpose,citizen,describe.,good,worry,majority,natural,lose.,information,effort,often,federal.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F048,Secret Cure Confirmed by Sources,"enough,book,left,human,top.,question,apply,woman,dinner.,growth,everyone,fund,task.,similar,early,table,build,think,type.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F082,Hoax Confirmed by Sources,"cut,leader,police.,mission,easy,race,poor,have.,event,easy,change,remain,subject,like.,anyone,break,study,outside,personal.,—,shocking,claims,hoax,surface,internet.",FAKE
+F187,Miracle Drug Confirmed by Sources,"site,significant,agency,offer.,doctor,week,police,along.,safe,year,cost.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+F027,Miracle Drug Confirmed by Sources,"good,thus,student.,world,prove,explain.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+F202,Hoax Confirmed by Sources,"religious,land,forward,various,tonight.,—,shocking,claims,hoax,surface,internet.",FAKE
+F197,Secret Cure Confirmed by Sources,"power,organization,board,apply,north,risk.,remember,well,guy,water.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R128,New Report on Climate Change,"conference,rest,occur,last.,former,car,magazine,material.,personal,debate,similar.,experts,discuss,ongoing,developments,climate,change.",REAL
+F157,Government Cover-Up Confirmed by Sources,"trial,ground.,group,economy,money,score,game,pressure.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F117,Hoax Confirmed by Sources,"often,case,example,include,special,hear,we.,pick,half,finish,success,despite,challenge.,green,audience,final,left.,—,shocking,claims,hoax,surface,internet.",FAKE
+F173,Secret Cure Confirmed by Sources,"professional,race,hair,official,character.,consider,personal,thank,image,case.,truth,page,stand,spend,history,live,free,whatever.,including,present,beyond,rise.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F024,Aliens Confirmed by Sources,"certainly,according.,even,front,whose,month,answer,space,model,pretty.,—,shocking,claims,aliens,surface,internet.",FAKE
+F096,Celebrity Scandal Confirmed by Sources,"example,idea,force,significant,physical.,network,radio,enjoy,activity,debate.,standard,window,reach,reason,value.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R247,New Report on Public Health,"want,us,occur,television,pass,ball,unit.,beautiful,research,quite,us,ball,white,college.,experts,discuss,ongoing,developments,public,health.",REAL
+F226,Government Cover-Up Confirmed by Sources,"method,hundred,film.,speech,ahead,dinner,suffer,career,teacher,energy.,high,describe,street,account,physical,early,compare.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F100,Flat Earth Confirmed by Sources,"season,point,movement,heavy,put,turn,part.,throw,financial,national,item.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F246,Government Cover-Up Confirmed by Sources,"end,baby,cover,hotel.,gun,find,pretty,whatever.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F183,Aliens Confirmed by Sources,"economic,million,suddenly.,large,modern,try.,—,shocking,claims,aliens,surface,internet.",FAKE
+R063,New Report on Policy,"quickly,player,different,anyone,series,huge.,water,every,push,industry,mouth,really.,sense,five,rate,effect,bill.,experts,discuss,ongoing,developments,policy.",REAL
+R005,New Report on Election,"rock,beat,health,expert.,however,table,open,onto,maintain.,return,check,peace.,experts,discuss,ongoing,developments,election.",REAL
+R084,New Report on Election,"card,possible,toward,player,agree.,series,safe,actually,record.,subject,unit,leave,quickly.,experts,discuss,ongoing,developments,election.",REAL
+R124,New Report on Education,"entire,area,try,keep,property,boy,majority.,arm,bed.,clearly,lose,happy,suffer,message,treat.,experts,discuss,ongoing,developments,education.",REAL
+R118,New Report on Research,"training,alone,mr.,glass,development,trade,compare.,experts,discuss,ongoing,developments,research.",REAL
+F001,Aliens Confirmed by Sources,"five,culture,writer,guess,better.,current,number,always,quite,everyone,mention,then.,—,shocking,claims,aliens,surface,internet.",FAKE
+F007,Immortal Jellyfish Confirmed by Sources,"crime,watch,stuff.,environmental,peace,institution.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F046,Mind Control Confirmed by Sources,"whatever,offer,several,writer.,foot,special,suffer,final,culture,tend.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R103,New Report on Research,"several,cup,all.,science,similar,cover,especially.,local,spring,effect,see.,address,wall,involve,behind.,experts,discuss,ongoing,developments,research.",REAL
+R037,New Report on Budget Report,"environment,never,western,modern,defense,like,back.,capital,tree,rich,kind,bag,card,safe.,experts,discuss,ongoing,developments,budget,report.",REAL
+F193,Secret Cure Confirmed by Sources,"sit,language,first,sometimes,case,education.,must,add,another,machine,professional,great.,chair,eight,act,military.,individual,create,western,state.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R166,New Report on Election,"name,training,model,film,international,cause,usually.,skin,three,garden,dream,chair,wish.,recent,pay,true,citizen,say,society.,experts,discuss,ongoing,developments,election.",REAL
+F017,Immortal Jellyfish Confirmed by Sources,"office,building,miss,wide,perhaps,fund,onto,understand.,director,window,simply,local,sign,suffer,relate.,behind,time,ground,push,man.,identify,bit,sister,leader.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R008,New Report on Economic Growth,"stage,common,cold,reflect,second,southern,team.,heart,full,never,keep,seem,rather.,white,rate,tell.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F071,Celebrity Scandal Confirmed by Sources,"unit,make,water.,whatever,across,generation,join,wear,civil.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F028,Mind Control Confirmed by Sources,"near,read,light,hot.,west,red,activity,detail,sing,trip,morning.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F227,Immortal Jellyfish Confirmed by Sources,"front,house,service,general,beyond,show.,source,computer,lose.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R200,New Report on Public Health,"wear,seven,never,five,admit,trial.,experts,discuss,ongoing,developments,public,health.",REAL
+R225,New Report on Climate Change,"others,certain,environmental.,cultural,score,hundred,cover,air.,popular,moment,treat.,experts,discuss,ongoing,developments,climate,change.",REAL
+R062,New Report on Budget Report,"relationship,likely,television,admit,old.,road,sure,ground,cup.,experts,discuss,ongoing,developments,budget,report.",REAL
+F033,Hoax Confirmed by Sources,"service,institution,easy,avoid,tree.,—,shocking,claims,hoax,surface,internet.",FAKE
+F012,Hoax Confirmed by Sources,"whether,yet,month,less.,nice,way,listen,recently,baby,thousand.,—,shocking,claims,hoax,surface,internet.",FAKE
+R121,New Report on Research,"between.,practice,involve,kind,military,north,ask.,experts,discuss,ongoing,developments,research.",REAL
+F210,Aliens Confirmed by Sources,"probably,south,civil,indicate,return,teacher.,fear,country,scene,responsibility,behind,box.,blood,material,level,property,throughout,shake,decade,research.,—,shocking,claims,aliens,surface,internet.",FAKE
+F151,Hoax Confirmed by Sources,"individual,single,sign,minute,pm,consumer.,pm,information,message,fall,shake,crime,subject.,—,shocking,claims,hoax,surface,internet.",FAKE
+F099,Secret Cure Confirmed by Sources,"forget,hold,share,customer.,response,tough,simply,operation,way,network,nearly.,score,wait,job,add,drive.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R090,New Report on Technology Breakthrough,"instead,official,leader,reveal,cut,become,almost.,store,thing,whatever,daughter,join,participant.,student,find,agency,simply,assume.,finish,father,north,huge,instead,force.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R125,New Report on Budget Report,"letter,point,republican,trip,rise,down.,others,instead,recognize,report.,experts,discuss,ongoing,developments,budget,report.",REAL
+R091,New Report on Climate Change,"figure,pm,sound,never,man.,size,rich,order,never.,ever,push,understand,recognize,car,reality,election.,experts,discuss,ongoing,developments,climate,change.",REAL
+R157,New Report on Climate Change,"soon,film,father,five.,black,practice,meeting.,fear,ability,direction.,experts,discuss,ongoing,developments,climate,change.",REAL
+F098,Miracle Drug Confirmed by Sources,"agree,catch.,card,central,none,hard,traditional,business.,position,campaign,lay.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+F164,Immortal Jellyfish Confirmed by Sources,"morning,particularly,box,bed,beautiful.,simply,condition,suffer,thought,player,week,sell,civil.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R050,New Report on Economic Growth,"culture,source,road,effect.,trade,nature,theory,nearly,into.,feel,recognize,four.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R249,New Report on Climate Change,"study,real,three,tv,economy.,experts,discuss,ongoing,developments,climate,change.",REAL
+R093,New Report on Election,"notice,president,throw.,particularly,go,make,certainly,build,agent.,low,meet,guess,section,information.,experts,discuss,ongoing,developments,election.",REAL
+R131,New Report on Education,"create,its.,success,past,size,quickly,federal,hotel,protect.,particular,start,short,action,look,strong.,difference,believe,special,head,put,leader,memory.,experts,discuss,ongoing,developments,education.",REAL
+F107,Flat Earth Confirmed by Sources,"green,participant,today,several.,available,team,leader,assume,college,happy,from.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F153,Hoax Confirmed by Sources,"exactly,series,high.,economic,western,speak,policy,else.,—,shocking,claims,hoax,surface,internet.",FAKE
+F091,Flat Earth Confirmed by Sources,"word,talk,well,road,soldier.,set,break,opportunity,exist.,far,cover,right,catch,perform,make.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R246,New Report on Economic Growth,"yet,political,perform,win.,behind,different,dinner.,evening,group,change,become,year,wall.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F004,Secret Cure Confirmed by Sources,"huge,lot,election,leader.,huge,loss,mr,mind,minute,fund,pretty,wife.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F220,Celebrity Scandal Confirmed by Sources,"hundred,perform,meeting,stage,hit,he.,send,beautiful,peace,avoid,send,season,religious.,finally,section,consider,rule,international,vote.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F121,Hoax Confirmed by Sources,"establish,almost,per,account,decide,quickly.,girl,expert,day,report,dog,successful,last.,hour,couple,commercial,hand.,—,shocking,claims,hoax,surface,internet.",FAKE
+F245,Mind Control Confirmed by Sources,"lawyer,tv,produce,right,member.,call,scientist,nothing,movement,indeed,southern,where.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R035,New Report on Climate Change,"able,thus,last,heart,wait.,run,drive,get,billion,thought,ability.,experts,discuss,ongoing,developments,climate,change.",REAL
+R024,New Report on Education,"rich,within,drive.,job,management,song,task,return,south,alone.,country,part,plant,agree,night.,experts,discuss,ongoing,developments,education.",REAL
+F079,Miracle Drug Confirmed by Sources,"letter,hundred,water,mission,finish.,seven,democratic,actually,cut,officer.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R094,New Report on Policy,"state,response,theory,citizen,daughter.,security,line,often,campaign,eight,entire.,experts,discuss,ongoing,developments,policy.",REAL
+R040,New Report on Policy,"trade,view,officer,land,bag,open.,newspaper,particular,drop,season,consumer,area,weight,minute.,experts,discuss,ongoing,developments,policy.",REAL
+F170,Immortal Jellyfish Confirmed by Sources,"make,total,plan,enough.,wear,key,voice,everyone,financial,force,appear,need.,radio,recent,show,gas,right,picture,black,parent.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F130,Immortal Jellyfish Confirmed by Sources,"serious,form,site,republican,event.,serve,officer,low,standard,who.,recently,much,offer,challenge,eye,guy.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R085,New Report on Economic Growth,"street,threat,dog,computer,edge,number,kid.,field,drop,carry.,stop,pressure,reduce.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R054,New Report on Budget Report,"push,score,senior,language,at.,mouth,natural,international,add,morning,realize.,experts,discuss,ongoing,developments,budget,report.",REAL
+R047,New Report on Technology Breakthrough,"improve,ahead,color,lawyer,stuff.,view,maintain,learn,group.,modern,society,general,old,major,require,behavior.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R199,New Report on Economic Growth,"local,agent,north,send,trial,per.,feel,mention,last,power,fall,already.,long,method,agency,happen,old,direction.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F062,Miracle Drug Confirmed by Sources,"late,tough,real,employee,collection,officer.,attack,show,kid,class.,relate,worker,resource,town,city.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R244,New Report on Technology Breakthrough,"recently,moment,food,recent.,nearly,without,wear,able,draw,catch,field.,local,base,art,morning,free,crime.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R107,New Report on Election,"plant,white,black,walk.,cause,war,green,offer,imagine,thus.,experts,discuss,ongoing,developments,election.",REAL
+F148,Aliens Confirmed by Sources,"nearly,join,line,let,nearly,professional.,responsibility,yard,ground,baby,money,send,attack.,—,shocking,claims,aliens,surface,internet.",FAKE
+F023,Mind Control Confirmed by Sources,"spring,expect,series,create,role,industry,often,case.,support,dinner,office,others,hour.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R075,New Report on Budget Report,"realize,cultural,surface,hear.,factor,debate,build.,experts,discuss,ongoing,developments,budget,report.",REAL
+R220,New Report on Public Health,"fish,poor,director,fight,doctor.,hundred,nature,candidate,these.,experts,discuss,ongoing,developments,public,health.",REAL
+R099,New Report on Economic Growth,"president,name,meeting,ahead,shoulder.,matter,performance,kind,throw,similar,black.,year,star,sit,less,argue.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F066,Flat Earth Confirmed by Sources,"officer,feel,already,suffer.,sit,water,news,fund,big,small.,shake,sit,eye,add,paper,teacher.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F060,Flat Earth Confirmed by Sources,"music,matter,experience,development,want,explain.,purpose,exactly,where.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F022,Government Cover-Up Confirmed by Sources,"sure,senior,sit,drive.,behavior,truth,entire,might,age.,role,street,old,reflect,artist,manager,consider,raise.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F127,Mind Control Confirmed by Sources,"fire,eat,push,scene,range.,small,experience,single.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R212,New Report on Education,"line,across,away.,seven,student,discuss.,human,trouble,late,explain,turn,suggest,catch.,experts,discuss,ongoing,developments,education.",REAL
+F119,Mind Control Confirmed by Sources,"purpose,stop,director,control,author,mention.,garden,art,decade,officer,field.,true,toward,good,situation.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F103,Hoax Confirmed by Sources,"stop,wonder,tend,provide,cover,firm,kid.,thing,town,along.,glass,put,five,north.,—,shocking,claims,hoax,surface,internet.",FAKE
+F191,Mind Control Confirmed by Sources,"thought,fast,life,rock.,one,heavy,coach,near,even,seven.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F002,Mind Control Confirmed by Sources,"sometimes,young,individual,strong,model.,pick,sea,event,forward,character.,hour,street,able,choose,religious,possible.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R155,New Report on Election,"knowledge,kid,alone,ago,nation.,experts,discuss,ongoing,developments,election.",REAL
+R006,New Report on Technology Breakthrough,"cultural,sell,ago,make,they.,evidence,growth,measure,rise,history.,trouble,listen,blood,environment.,entire,ok,identify,care,remain,building,receive.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F086,Government Cover-Up Confirmed by Sources,"source,several,seek,effort,great,town,myself.,financial,hear,chair,development,work.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R168,New Report on Election,"bit,early,church,nothing,bank.,less,detail,arrive,generation,picture,final.,fast,successful,phone,surface,partner.,experts,discuss,ongoing,developments,election.",REAL
+R077,New Report on Public Health,"quite,go,fear,letter,ago,actually.,sign,foot,technology,senior,human,option,movement,half.,statement,surface,leg.,experts,discuss,ongoing,developments,public,health.",REAL
+F209,Hoax Confirmed by Sources,"five,officer,smile,science,number,someone,practice.,final,recognize,talk,save,art,ok,send.,little,laugh,treat,art.,—,shocking,claims,hoax,surface,internet.",FAKE
+R236,New Report on Public Health,"six,condition,near,wide.,behind,bank,sound,plan,window.,experts,discuss,ongoing,developments,public,health.",REAL
+F186,Aliens Confirmed by Sources,"safe,state,relationship,employee.,physical,community,put,child,maintain.,—,shocking,claims,aliens,surface,internet.",FAKE
+R243,New Report on Public Health,"forget,authority,degree,you.,argue,instead,event,man.,experts,discuss,ongoing,developments,public,health.",REAL
+F094,Immortal Jellyfish Confirmed by Sources,"region,situation,reveal,girl,check.,security,past,true,later.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R032,New Report on Economic Growth,"front,game,hard,tell,time,whom.,play,green,great,eight.,generation,sell,middle,wish,thank,pay,treatment.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R033,New Report on Education,"reduce,already,total,network,recent,chance,both.,experts,discuss,ongoing,developments,education.",REAL
+R045,New Report on Technology Breakthrough,"court,read,leader.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R116,New Report on Education,"strategy,read,agent,staff,need,able.,art,onto,alone.,right,once.,experts,discuss,ongoing,developments,education.",REAL
+F056,Celebrity Scandal Confirmed by Sources,"country,state,technology,score,red,information,break,street.,among,current,whole,hospital.,next,outside,job,pattern,price,room.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R043,New Report on Policy,"skin,crime,environment,rich.,issue,operation,care,check.,throw,billion,operation,should.,experts,discuss,ongoing,developments,policy.",REAL
+R145,New Report on Economic Growth,"skin,data,read,peace.,star,south,read,rate.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F200,Secret Cure Confirmed by Sources,"matter,perhaps,anyone.,gas,congress,pm,conference,parent,big.,collection,city,evening,person,green.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F034,Celebrity Scandal Confirmed by Sources,"sometimes,south,agreement,local,occur.,wait,material,attorney,anyone,probably.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F149,Secret Cure Confirmed by Sources,"happy,drive,tough,health,section,arrive.,indeed,bill,operation,culture.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F051,Secret Cure Confirmed by Sources,"economy,catch,trip,away,short.,civil,black,trip,today.,image,blood,another,yes.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F089,Flat Earth Confirmed by Sources,"subject,federal,foot,reflect,final,everybody,middle.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F135,Flat Earth Confirmed by Sources,"program,authority,congress,identify,wrong,light,machine.,treat,indicate,view,turn,outside,performance.,consumer,return,watch,fund.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F088,Government Cover-Up Confirmed by Sources,"law,dark,force,lot.,follow,year,none,born,away,let.,point,truth,by.,serious,movie,memory,political.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R010,New Report on Election,"throw,tonight,mother,test,small.,agency,similar,whose,along,south,large,effort.,leave,red,reach,seven,of.,experts,discuss,ongoing,developments,election.",REAL
+R211,New Report on Policy,"use,practice,response,step,guess,lead,receive.,trip,improve,alone,simple,condition.,experts,discuss,ongoing,developments,policy.",REAL
+F204,Miracle Drug Confirmed by Sources,"beautiful,alone,reflect,activity.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+F168,Miracle Drug Confirmed by Sources,"great,majority,course,would.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R011,New Report on Public Health,"different,north,fish,and.,science,sea,dream,number.,experts,discuss,ongoing,developments,public,health.",REAL
+R232,New Report on Climate Change,"clear,civil,teach,maintain,security,act.,direction,region,crime,once.,take,ahead,first,student,strategy,establish,form.,experts,discuss,ongoing,developments,climate,change.",REAL
+R042,New Report on Public Health,"notice,walk,speak,determine.,interest,point,every.,pressure,check,a.,experts,discuss,ongoing,developments,public,health.",REAL
+F182,Hoax Confirmed by Sources,"science,play,amount,then.,suggest,truth,return,growth,election,security,recently.,—,shocking,claims,hoax,surface,internet.",FAKE
+F036,Miracle Drug Confirmed by Sources,"whatever,state,task,week,represent.,international,cold,game,treatment,century,industry,yard.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+F068,Secret Cure Confirmed by Sources,"simply,fear,maybe,behavior.,assume,economic,war,eat,water,say.,yard,must,indicate,move,important,congress.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R015,New Report on Election,"method,industry,politics,ball,number,inside.,shoulder,especially,soon,hot.,away,institution,player,door,among,across,center.,within,test,begin,never.,experts,discuss,ongoing,developments,election.",REAL
+R147,New Report on Climate Change,"catch,indicate,seem,edge,remember,red.,among,together,opportunity,experience,effort,than.,ball,especially.,bed,audience,present,product,fall.,experts,discuss,ongoing,developments,climate,change.",REAL
+F198,Government Cover-Up Confirmed by Sources,"success,left,experience,talk,black.,make,sound,east.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R081,New Report on Climate Change,"center,range,bit,especially,institution,long,attention.,training,later,camera,military,ready,top.,experts,discuss,ongoing,developments,climate,change.",REAL
+F050,Aliens Confirmed by Sources,"upon,role,career,social.,bit,truth,personal,important,city.,structure,discover,become,thought.,—,shocking,claims,aliens,surface,internet.",FAKE
+F162,Celebrity Scandal Confirmed by Sources,"certain,respond,leg,within,indicate,return,wish.,miss,garden,improve,allow.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R028,New Report on Technology Breakthrough,"pretty,mind,bar,per,series.,ok,capital,law,know,song,training.,long,among,cause,already,suggest.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R195,New Report on Budget Report,"traditional,director,education,college.,hundred,baby,bill,point,hold,together,senior.,experts,discuss,ongoing,developments,budget,report.",REAL
+F116,Aliens Confirmed by Sources,"charge,finish,several,consumer,guy,note.,spring,mr,american,history,activity,public.,—,shocking,claims,aliens,surface,internet.",FAKE
+R018,New Report on Research,"get,ago,hear,mind.,garden,throw,program,concern,star,show,son.,experts,discuss,ongoing,developments,research.",REAL
+F073,Immortal Jellyfish Confirmed by Sources,"among,ever,response,own.,right,remain,skill,person,market.,man,tough,next,might,consider,matter.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F059,Miracle Drug Confirmed by Sources,"close,role,agent,agent,far,information,economy.,interest,go,bill.,risk,cause,rich,ten,push.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R078,New Report on Budget Report,"civil,college,tell,worry,break.,forward,responsibility,structure,almost,east,pressure.,experts,discuss,ongoing,developments,budget,report.",REAL
+F216,Secret Cure Confirmed by Sources,"people,teacher,none,south,ask.,senior,old,concern,hundred,whole,identify.,decide,learn,letter,describe,vote,must,travel.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F206,Celebrity Scandal Confirmed by Sources,"establish,family,two,peace,everything,tax.,whether,writer,operation,blood,drop.,military,large,stuff,we.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R036,New Report on Research,"show,care,reach,staff.,try,old,onto.,news,already,mr,chance,inside,never,actually.,experts,discuss,ongoing,developments,research.",REAL
+F104,Aliens Confirmed by Sources,"environment,hospital,reach.,order,third,consider,world,control.,care,take,indicate,bed,end,difficult,forward.,structure,relationship,word,point,program,play.,—,shocking,claims,aliens,surface,internet.",FAKE
+F000,Hoax Confirmed by Sources,"far,soldier,congress,able,appear,close,career.,data,respond,large,case.,able,painting,compare.,—,shocking,claims,hoax,surface,internet.",FAKE
+R136,New Report on Education,"school,teacher,news,treatment,party,specific.,degree,somebody,early.,audience,democrat,lose,whether.,foot,picture,whatever,knowledge,nation,pattern,staff.,experts,discuss,ongoing,developments,education.",REAL
+F019,Immortal Jellyfish Confirmed by Sources,"pm,skill,skill,loss,economy,future.,stay,protect,state,small,buy.,amount,city,feeling,agency.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R012,New Report on Technology Breakthrough,"professor,manage,information,job,former,garden.,impact,close,education,soon,music,hand,cut.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R052,New Report on Education,"moment,threat,sign,low,someone,structure,hear.,mrs,national,wrong,information,site,per,she.,others,town,cover,executive.,experts,discuss,ongoing,developments,education.",REAL
+R123,New Report on Climate Change,"business,indeed,career,seven.,successful,personal,moment,law,among,reach.,experts,discuss,ongoing,developments,climate,change.",REAL
+F040,Government Cover-Up Confirmed by Sources,"energy,many,sea,cause,standard,fund,record,serious.,western,side,specific,whole,manage.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R160,New Report on Climate Change,"matter,series,feeling,science,health,section.,charge,list,new.,experts,discuss,ongoing,developments,climate,change.",REAL
+F067,Immortal Jellyfish Confirmed by Sources,"change,policy,subject,city,son,drug,child.,single,project,place,low,dream,throughout.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R069,New Report on Research,"feel,foreign,rich,give,water.,others,toward,country,north,cell,technology.,experts,discuss,ongoing,developments,research.",REAL
+F160,Mind Control Confirmed by Sources,"political,social,arrive,guy,capital,decide.,industry,little,season,finish,assume.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F053,Hoax Confirmed by Sources,"free,political,recently.,affect,total,operation,mouth,most.,—,shocking,claims,hoax,surface,internet.",FAKE
+R074,New Report on Education,"total,amount,without,mrs,hand,continue.,near,plan,give.,forward,try,future.,experts,discuss,ongoing,developments,education.",REAL
+R007,New Report on Election,"others,score,far,trial.,never,yard,thus,shake,month,bank.,experts,discuss,ongoing,developments,election.",REAL
+R119,New Report on Climate Change,"program,onto,exactly,hear.,treat,surface.,later,indicate,everything,best,talk,return.,experts,discuss,ongoing,developments,climate,change.",REAL
+R087,New Report on Budget Report,"magazine,clearly,help,meet.,property,article,sister,wear,white,ten.,experts,discuss,ongoing,developments,budget,report.",REAL
+F145,Miracle Drug Confirmed by Sources,"everything,break,group,say,one,relationship,lot,amount.,learn,unit,age,mission,treatment,nor.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R065,New Report on Budget Report,"future,pull,reach,effect,officer,white.,quickly,ability,house,cut,himself.,employee,establish,teach,everyone,individual.,experts,discuss,ongoing,developments,budget,report.",REAL
+R208,New Report on Budget Report,"spend,table,around,send.,report,thousand,hot,though,vote.,experts,discuss,ongoing,developments,budget,report.",REAL
+R048,New Report on Budget Report,"sense,official,within,eye,your.,happy,technology,common,sea,main,southern,benefit,leave.,experts,discuss,ongoing,developments,budget,report.",REAL
+F076,Aliens Confirmed by Sources,"student,eye,blue.,industry,police,director,happy,nature,doctor.,—,shocking,claims,aliens,surface,internet.",FAKE
+R019,New Report on Policy,"theory,today,bill,method,available,example.,investment,community,upon,behind,beyond,firm.,movement,vote,adult,article.,experts,discuss,ongoing,developments,policy.",REAL
+F115,Immortal Jellyfish Confirmed by Sources,"reveal,ability,republican.,generation,grow,answer,have.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R031,New Report on Education,"take,event,report,republican,either.,area,teach,visit,left,first,range.,onto,usually,idea,mrs.,experts,discuss,ongoing,developments,education.",REAL
+R190,New Report on Research,"knowledge,least,real,air,look,put.,relate,occur,generation,reach,similar,want,least.,wonder,never,law,similar.,experts,discuss,ongoing,developments,research.",REAL
+F057,Mind Control Confirmed by Sources,"detail,writer,stock,represent,treatment.,step,dinner,cell,alone.,sure,look,enjoy,see,high,investment.,interest,month,method,poor,institution.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F158,Immortal Jellyfish Confirmed by Sources,"rock,measure,sense,country,avoid,see.,use,bar,agency,book.,total,however,foot,bank,together.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F234,Flat Earth Confirmed by Sources,"hot,democratic,course,free,including.,respond,dream,health,method.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F155,Flat Earth Confirmed by Sources,"life,information,find,across,performance.,trial,bank,specific,prevent.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F106,Flat Earth Confirmed by Sources,"establish,describe.,society,trade,herself.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R051,New Report on Policy,"crime,oil,degree,short,light,second,provide.,relate,star,theory,research,drive,always,news.,benefit,vote,despite,top,player,visit,herself.,experts,discuss,ongoing,developments,policy.",REAL
+R203,New Report on Education,"already,girl,summer,war,fund,growth.,fear,drive,compare.,experts,discuss,ongoing,developments,education.",REAL
+F063,Secret Cure Confirmed by Sources,"leg,hotel,force.,stand,experience,specific,deep,effort,crime.,act,resource,already,deal,billion.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R080,New Report on Policy,"campaign,everybody,dark,check,fill,sea.,threat,sort,already,moment,prevent,image.,experts,discuss,ongoing,developments,policy.",REAL
+R226,New Report on Public Health,"tree,image,test,me.,shoulder,lot,star,good.,push,natural,become,support,day,able.,board,city,south,performance.,experts,discuss,ongoing,developments,public,health.",REAL
+F144,Hoax Confirmed by Sources,"result,collection,even,study,soon,meet.,alone,food,resource.,step,ahead,quality,fund.,—,shocking,claims,hoax,surface,internet.",FAKE
+F241,Flat Earth Confirmed by Sources,"area,quite,writer,writer,cut.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R150,New Report on Election,"least,book,easy,industry,happen.,everybody,unit,social,offer.,experts,discuss,ongoing,developments,election.",REAL
+R153,New Report on Research,"new,strategy,wall,wide,eat.,mr,several,president,brother,traditional.,voice,man,energy,local,prove,religious.,experts,discuss,ongoing,developments,research.",REAL
+F175,Hoax Confirmed by Sources,"either,measure,affect,meet,away,allow.,—,shocking,claims,hoax,surface,internet.",FAKE
+F161,Immortal Jellyfish Confirmed by Sources,"apply,keep,account,dark.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F147,Secret Cure Confirmed by Sources,"air,prove,soon.,must,man,player,officer.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F018,Secret Cure Confirmed by Sources,"among,offer,office,social,computer,why.,state,analysis,firm,his.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F211,Celebrity Scandal Confirmed by Sources,"process,citizen,argue,big,director,teach.,political,president,response,catch,represent,fine,we.,region,center,song,traditional,hand,ago.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R117,New Report on Research,"provide,eye,scientist,alone,finally.,new,hundred,operation,smile,window,scientist.,experts,discuss,ongoing,developments,research.",REAL
+F016,Aliens Confirmed by Sources,"enough,near,decade,important,so.,continue,kind,yeah.,—,shocking,claims,aliens,surface,internet.",FAKE
+F029,Flat Earth Confirmed by Sources,"force,enough,even,head,recently.,everybody,enough,force,tv,try.,political,institution,start,animal,collection,perform.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F205,Celebrity Scandal Confirmed by Sources,"data,cup,north,understand,every.,win,arm,morning,nice.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R112,New Report on Economic Growth,"turn,likely,space,entire.,also,company,bar,third,dinner,maintain,to.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F218,Government Cover-Up Confirmed by Sources,"owner,finally,peace,white,real,factor.,behavior,start,respond,beautiful,western.,create,low,face,decade,ten,small.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R187,New Report on Education,"interview,visit,machine.,standard,level,light,language,news,any.,experts,discuss,ongoing,developments,education.",REAL
+F087,Celebrity Scandal Confirmed by Sources,"successful,design,treatment,low,rather,well,morning.,safe,answer,history,rock.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R171,New Report on Education,"speech,reality,manage.,water,throughout,avoid.,experts,discuss,ongoing,developments,education.",REAL
+R113,New Report on Technology Breakthrough,"keep,respond,simple,card,worry,training.,add,reflect,plant,public.,day,trade,begin,pick,air,interesting.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R222,New Report on Public Health,"member,its.,poor,turn,total,government.,experts,discuss,ongoing,developments,public,health.",REAL
+F233,Secret Cure Confirmed by Sources,"within,son,defense,though.,attack,size,cultural,yard,result.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R223,New Report on Climate Change,"floor,price,leave,throw,support,election.,someone,adult,base,edge,large,apply,say,teacher.,experts,discuss,ongoing,developments,climate,change.",REAL
+F224,Secret Cure Confirmed by Sources,"dark,sea,stuff,us,entire.,business,born,recent,pm,those.,late,sense,even,establish,reflect.,among,save,available.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R181,New Report on Climate Change,"able,actually,student,wrong.,task,even,lot,though,work.,however,tax,make,pm.,policy,bag,white,risk,interest,role,even,cultural.,experts,discuss,ongoing,developments,climate,change.",REAL
+R056,New Report on Public Health,"live,maybe,various,need,same.,maybe,house,any.,experts,discuss,ongoing,developments,public,health.",REAL
+R110,New Report on Education,"car,big,mind,local.,reason,special,baby,town.,experts,discuss,ongoing,developments,education.",REAL
+R219,New Report on Education,"democratic,report,actually,future,positive,senior.,experts,discuss,ongoing,developments,education.",REAL
+R224,New Report on Education,"happen,arrive,full,medical,hear.,nation,control,official,talk,college,draw.,front,meeting,amount,per,know,tonight.,local,develop,already,rich,somebody.,experts,discuss,ongoing,developments,education.",REAL
+F178,Immortal Jellyfish Confirmed by Sources,"case,high,other.,raise,take,member,stand,medical.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F074,Secret Cure Confirmed by Sources,"realize,degree,continue,although.,treat,cover,news,toward,dream.,machine,factor,budget,message,particularly.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R034,New Report on Budget Report,"mrs,hear,fly,write,card,quality.,baby,blue,late.,per,market,wish.,eat,trip,center,eight,own.,experts,discuss,ongoing,developments,budget,report.",REAL
+R095,New Report on Policy,"wall,decade,true,form,something,stock.,experts,discuss,ongoing,developments,policy.",REAL
+F011,Aliens Confirmed by Sources,"enjoy,inside,sing,six.,fear,wide,weight,box,article,benefit,early,unit.,story,environmental,become,everybody.,—,shocking,claims,aliens,surface,internet.",FAKE
+R162,New Report on Policy,"international,citizen,standard,include,use.,medical,experience,piece,weight,student.,experts,discuss,ongoing,developments,policy.",REAL
+R218,New Report on Election,"american,admit,always,single.,anyone,thus,push,degree,forget,enough.,experts,discuss,ongoing,developments,election.",REAL
+F136,Miracle Drug Confirmed by Sources,"expect,family,character,nothing,us,head,policy.,chair,know,stand,mission,under.,whether,talk,often,large,even,activity,agent,their.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R108,New Report on Economic Growth,"take,point,big,across,start,along,dream,them.,believe,garden,rate,upon.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R186,New Report on Research,"available,individual,end,keep.,experts,discuss,ongoing,developments,research.",REAL
+R248,New Report on Technology Breakthrough,"alone,figure,level,seven.,window,skill,task,everyone,design,specific,include.,market,television,thought,sure,material,goal,girl.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F045,Immortal Jellyfish Confirmed by Sources,"discussion,party,he.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F092,Secret Cure Confirmed by Sources,"ok,play,officer,weight.,generation,field,maybe,activity,simple,prepare,age,let.,ago,nothing,industry.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R100,New Report on Technology Breakthrough,"action,south,there.,project,high,language.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F075,Miracle Drug Confirmed by Sources,"direction,management,easy,however.,group,happen,hair,particularly,environment,room,need,that.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R059,New Report on Technology Breakthrough,"news,however,agent,pretty,news,serious.,resource,parent,town,hundred,admit.,say,billion,within,quickly,result,century.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F213,Hoax Confirmed by Sources,"water,social,mean,herself.,shoulder,miss,job,discover,store,trip,herself.,act,dog,across,world,second,order.,—,shocking,claims,hoax,surface,internet.",FAKE
+R233,New Report on Education,"heart,sing,every,money,shoulder.,listen,stay,sometimes,mrs,minute.,experts,discuss,ongoing,developments,education.",REAL
+F072,Mind Control Confirmed by Sources,"wide,stand,maintain,stuff.,mother,reach,bit,car,help,action.,resource,stock,sea,remain,half.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R184,New Report on Budget Report,"president,rise,skill,later.,gas,history,line,respond,almost,current,commercial.,experts,discuss,ongoing,developments,budget,report.",REAL
+F134,Secret Cure Confirmed by Sources,"common,white,radio,answer,ago,add.,life,parent,action,national,floor,road.,ability,affect,various,foot,ever,religious.,mouth,east,room,management,leg,cause.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R096,New Report on Research,"person,window,say,want,cause,boy.,team,threat,them.,experts,discuss,ongoing,developments,research.",REAL
+R020,New Report on Policy,"spend,require,democratic,process,decide,believe,like,business.,chair,strategy,identify,nice,must.,experts,discuss,ongoing,developments,policy.",REAL
+R067,New Report on Policy,"enter,give,likely,card.,rate,stand,throw,difference,firm,relationship.,anyone,cost,protect,bring,north,benefit,minute.,experts,discuss,ongoing,developments,policy.",REAL
+R215,New Report on Education,"prove,admit,best,relationship.,hospital,establish,dinner,over.,experts,discuss,ongoing,developments,education.",REAL
+R127,New Report on Policy,"exist,cup.,forget,red,song,drive.,environmental,short,treatment,certainly,record,player,along,best.,experts,discuss,ongoing,developments,policy.",REAL
+R235,New Report on Technology Breakthrough,"inside,father,she.,food,staff,evening,radio,democrat,meet,once.,affect,run,ask,system,require,country,may.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R163,New Report on Climate Change,"treat,however,decade,girl.,happen,friend,information,practice.,experts,discuss,ongoing,developments,climate,change.",REAL
+R002,New Report on Education,"general,fine,decide,field,management,enter.,project,magazine,water,resource,trade,official.,owner,interest,large,describe,firm,number.,experts,discuss,ongoing,developments,education.",REAL
+R021,New Report on Education,"prevent,heart,soon,skill.,drive,pressure,method,million,special.,tough,term,look,service,word,area,difficult.,experts,discuss,ongoing,developments,education.",REAL
+R013,New Report on Technology Breakthrough,"fund,teacher,soldier,happy.,save,others,onto,service.,enough,daughter,hospital.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F195,Flat Earth Confirmed by Sources,"must,speech,treatment,area,federal.,support,bank,bed.,wear,fact,fine,good,always,six.,song,behavior,modern,blood,eat,manage,staff.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R101,New Report on Research,"soon,continue,memory,situation.,north,cut,machine,pretty,system,officer.,enough,physical,democratic,main,region.,experts,discuss,ongoing,developments,research.",REAL
+R055,New Report on Research,"mean,century,form,rest,compare,individual,answer.,wall,suddenly,style,herself.,experts,discuss,ongoing,developments,research.",REAL
+F190,Secret Cure Confirmed by Sources,"business,cold,partner,science,plan,throw.,city,recently,foot,pass,statement,open.,six,support,important.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R004,New Report on Education,"son,staff,however,few.,pm,system,area,develop,arm,police.,experts,discuss,ongoing,developments,education.",REAL
+F080,Celebrity Scandal Confirmed by Sources,"administration,nearly,chance,station,ball.,bad,far,company,news,hope,strategy,provide.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F049,Hoax Confirmed by Sources,"parent,up.,world,allow,consider,size,local,material,series.,administration,government,hold,political.,—,shocking,claims,hoax,surface,internet.",FAKE
+F184,Secret Cure Confirmed by Sources,"big,significant,rock,language.,base,physical,fast.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F030,Secret Cure Confirmed by Sources,"skill,read,long,also,baby.,house,role,board,practice,least.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R213,New Report on Budget Report,"leave,sure,stop.,say,billion,bank,stuff,white.,experts,discuss,ongoing,developments,budget,report.",REAL
+F128,Immortal Jellyfish Confirmed by Sources,"cold,daughter,eight,whether,recognize.,within,region,improve,skill,blood,activity.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R231,New Report on Policy,"chance,open,item,return,set,throw,happen.,experts,discuss,ongoing,developments,policy.",REAL
+R061,New Report on Technology Breakthrough,"already,enjoy,agreement,ahead.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R137,New Report on Education,"skin,begin,despite,college.,bag,information,maintain,bank.,experts,discuss,ongoing,developments,education.",REAL
+R185,New Report on Technology Breakthrough,"certain,hope,represent,us.,collection,age,sense,including.,early,company,population.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R204,New Report on Technology Breakthrough,"decision,purpose,family.,name,tend,moment,line,power,success,power.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F217,Immortal Jellyfish Confirmed by Sources,"leader,camera,body,score.,share,single,short,history,audience.,fish,finish,board,key.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F176,Miracle Drug Confirmed by Sources,"force,account,yet.,increase,hour,born,human,report,environment,entire.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R245,New Report on Technology Breakthrough,"nature,keep,design,whose,century,economy.,require,court,go,decide.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R104,New Report on Election,"industry,significant,new,west,election.,whole,participant,never,line.,officer,feel,base.,pm,war,southern,man,drop,mention,charge.,experts,discuss,ongoing,developments,election.",REAL
+F156,Flat Earth Confirmed by Sources,"leader,class,result,right,model.,wide,group,simple,husband,role,compare.,old,necessary,state,ever,despite,drive,top.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R194,New Report on Election,"car,beautiful,spend,doctor,father,couple.,grow,serve.,experts,discuss,ongoing,developments,election.",REAL
+R161,New Report on Technology Breakthrough,"sign,join,mouth,wide.,back,type,water,support,mission,offer.,recently,institution,hair,page,idea,successful.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F113,Immortal Jellyfish Confirmed by Sources,"put,unit,garden,board,ever.,accept,partner,blue,defense,change,measure.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F150,Hoax Confirmed by Sources,"physical,bar,base,source,hard,charge,morning.,despite,image,anyone,say,surface.,economic,cold,next,other.,—,shocking,claims,hoax,surface,internet.",FAKE
+F047,Miracle Drug Confirmed by Sources,"per,firm,require,thousand,politics,create,agree.,bed,continue,measure,second.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+F008,Hoax Confirmed by Sources,"trial,eye,little,republican.,across,large,open,build.,establish,agency,young,watch,hour,report,stay.,—,shocking,claims,hoax,surface,internet.",FAKE
+F229,Aliens Confirmed by Sources,"far,president,watch,actually,item.,kid,role,ground,use.,—,shocking,claims,aliens,surface,internet.",FAKE
+R001,New Report on Research,"partner,mean,number,pull.,certain,individual,even,election,white,system,set.,particularly,suddenly,finish,pressure,fund,friend.,experts,discuss,ongoing,developments,research.",REAL
+R241,New Report on Public Health,"audience,perform,one,last.,hope,store,reduce.,experts,discuss,ongoing,developments,public,health.",REAL
+R198,New Report on Climate Change,"likely,political,maybe,difference,center.,tonight,move,southern,book,center,money.,theory,allow,traditional,young,mr,hotel,until.,experts,discuss,ongoing,developments,climate,change.",REAL
+R229,New Report on Research,"north,recognize,serve,collection.,tonight,heart.,experts,discuss,ongoing,developments,research.",REAL
+R205,New Report on Public Health,"better,out.,read,carry,end,performance,size,develop,everything.,range,continue,sister,south,low,late.,experts,discuss,ongoing,developments,public,health.",REAL
+F123,Celebrity Scandal Confirmed by Sources,"final,win,wear,space,job.,activity,tell,ready,must,whole,mention,whole.,need,front,store.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F043,Celebrity Scandal Confirmed by Sources,"book,radio.,page,lay,pass,mr,data.,cut,water,forget,scientist,meet,understand.,appear,official,mother,practice.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F097,Celebrity Scandal Confirmed by Sources,"green,prepare,improve,campaign,state,reach,require,four.,laugh,great,imagine,wind,season,sort,especially.,go,long,good.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R014,New Report on Research,"policy,end,month,deal,piece,including.,simply,project,true,budget,hard.,experts,discuss,ongoing,developments,research.",REAL
+F005,Flat Earth Confirmed by Sources,"west,charge,day.,move,billion,become,million,serve,account,woman.,bring,civil,technology,today,energy,now.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R234,New Report on Research,"yard,image,third,section,main,money,him.,bed,watch,security,hard,source.,people,trip,edge.,experts,discuss,ongoing,developments,research.",REAL
+F143,Aliens Confirmed by Sources,"able,list,prepare,staff,meeting.,quickly,career,civil,check,newspaper,agent.,cause,different,guess,her.,—,shocking,claims,aliens,surface,internet.",FAKE
+R073,New Report on Economic Growth,"suddenly,forget,fill,positive,piece,admit.,term,feel,reach,police,mind.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R239,New Report on Education,"bank,food,fast.,service,difficult,institution,popular.,discussion,nothing,mention.,experts,discuss,ongoing,developments,education.",REAL
+F181,Aliens Confirmed by Sources,"quickly,accept,black.,create,pass,agent,have.,—,shocking,claims,aliens,surface,internet.",FAKE
+R138,New Report on Election,"pass,score,laugh,catch,common,culture.,experts,discuss,ongoing,developments,election.",REAL
+R172,New Report on Economic Growth,"conference,among,might,miss,energy.,scientist,turn,data,write,risk,response,another.,skill,responsibility,structure,friend.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R143,New Report on Policy,"institution,represent,case,owner,position.,nation,want,one,rock,clear,day.,lot,explain,matter,meeting.,experts,discuss,ongoing,developments,policy.",REAL
+F166,Mind Control Confirmed by Sources,"enough,political,consumer,cut.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R003,New Report on Budget Report,"factor,condition.,since,fire,matter,get.,attention,mr,store,music,standard.,experts,discuss,ongoing,developments,budget,report.",REAL
+R167,New Report on Climate Change,"traditional,although,strategy,scientist,general.,girl,fish,student,item.,door,experience,page,who.,experts,discuss,ongoing,developments,climate,change.",REAL
+R183,New Report on Climate Change,"major,prepare,million,financial,minute.,bring,assume,large,those.,many,others,final,push,official,now.,experts,discuss,ongoing,developments,climate,change.",REAL
+R238,New Report on Technology Breakthrough,"firm,report,subject,fire,throughout,stand,magazine.,decade,camera,star,address.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R041,New Report on Election,"writer,role,never,project.,follow,everything,apply.,team,marriage,choice.,experts,discuss,ongoing,developments,election.",REAL
+F237,Government Cover-Up Confirmed by Sources,"seven,organization,social,type,discuss,protect.,together,kid,run,bank,statement,affect.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R086,New Report on Research,"something,teacher,trade,between.,drive,book.,peace,two,leader,hotel,instead,television,experience,former.,experts,discuss,ongoing,developments,research.",REAL
+R240,New Report on Policy,"institution,hour,onto,act.,experts,discuss,ongoing,developments,policy.",REAL
+R133,New Report on Public Health,"use,tv,enough,hair.,establish,field,else,off.,individual,reflect,else,learn,probably,let.,participant,world,nor.,experts,discuss,ongoing,developments,public,health.",REAL
+F044,Hoax Confirmed by Sources,"movie,attack,also,reveal.,food,blue,tv,reach,school.,—,shocking,claims,hoax,surface,internet.",FAKE
+F125,Government Cover-Up Confirmed by Sources,"guy,oil,note,pull,ball,full,energy,debate.,summer,fish,change,question,brother,question.,purpose,people,heavy,surface,pull.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F165,Secret Cure Confirmed by Sources,"bar,contain,successful,west,need,coach,manage.,argue,size,kind.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F137,Flat Earth Confirmed by Sources,"son,able,stand,difference,history,factor.,husband,mention.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R088,New Report on Research,"investment,eat,inside,box.,enough,society,name,everybody.,experts,discuss,ongoing,developments,research.",REAL
+R169,New Report on Technology Breakthrough,"play,call,foot,report,ahead,write,her.,sister,table,hit,beautiful.,trial,thank,quite,girl.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R193,New Report on Technology Breakthrough,"room,foreign,already,career,beautiful,style,difficult.,goal,body,surface,work.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F247,Mind Control Confirmed by Sources,"beautiful,government,tree,total,say,smile,effort.,rather,share,sign.,size,card,friend,soon,matter,show.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R179,New Report on Technology Breakthrough,"improve,skin,figure,lead.,program,rise,without,room,dog,often,throw,why.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F138,Immortal Jellyfish Confirmed by Sources,"hour,surface,focus,discuss,ability,plant.,top,study,body,note,easy,information,interesting.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R017,New Report on Policy,"still,also,candidate,travel,happy.,heavy,pick,reduce,market,beat,focus,in.,space,woman,fall,author,capital,toward,price.,experts,discuss,ongoing,developments,policy.",REAL
+F090,Mind Control Confirmed by Sources,"relationship,trade,play,father,onto,trial.,around,factor,follow,husband.,best,federal,visit,southern,care.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F222,Mind Control Confirmed by Sources,"carry,democrat,card,lose,weight,behind,bit.,sport,unit,together,artist,fly.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R114,New Report on Climate Change,"major,challenge,think.,room,ok,garden,majority,dog,particular.,project,seat,anything,newspaper,agency,girl.,experts,discuss,ongoing,developments,climate,change.",REAL
+F235,Celebrity Scandal Confirmed by Sources,"along,seat,scientist,institution,response.,star,example,low,fact.,degree,choose,contain,safe,else,job.,inside,meet,road.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F185,Hoax Confirmed by Sources,"spend,product,often,relationship.,avoid,test,consider,local,tell,put.,hundred,box,later,husband.,—,shocking,claims,hoax,surface,internet.",FAKE
+F221,Flat Earth Confirmed by Sources,"send,enjoy,situation,public.,ago,claim,education,local,fly,already,thought.,goal,somebody,clear,science,ago.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F054,Secret Cure Confirmed by Sources,"unit,boy,write.,together,attack,do.,six,speak,decide,race.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R000,New Report on Public Health,"less,hundred,director,issue,tell,information,everyone.,threat,method,bring.,international,important,low.,experts,discuss,ongoing,developments,public,health.",REAL
+R178,New Report on Budget Report,"affect,foot,month.,food,agent,every,drop,appear.,environment,thus,congress,glass,level,impact.,experts,discuss,ongoing,developments,budget,report.",REAL
+F006,Hoax Confirmed by Sources,"smile,successful,popular,meeting,support.,actually,expert,face,energy,north,natural,economic.,shake,specific,economic,compare,send.,—,shocking,claims,hoax,surface,internet.",FAKE
+F174,Secret Cure Confirmed by Sources,"cultural,situation,yard.,material,number,benefit,arrive,politics.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R009,New Report on Election,"long,participant,color,group,develop,after.,anything,deep,clear,american,executive.,experts,discuss,ongoing,developments,election.",REAL
+R122,New Report on Economic Growth,"everything,expect,grow,better,institution,need.,four,face,party,health,evidence.,born,give,door,various,picture,hospital,need.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F189,Immortal Jellyfish Confirmed by Sources,"statement,prepare,knowledge.,require,west,section,big,year,total,interesting.,assume,way,drop,religious,instead,foreign.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R146,New Report on Technology Breakthrough,"mean,health,step,discussion,want.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R022,New Report on Climate Change,"data,front,popular,bill,fall.,film,cover,collection,ready.,fight,position,ground,tv,world.,wish,movement,decide,economic,watch,career.,experts,discuss,ongoing,developments,climate,change.",REAL
+F177,Aliens Confirmed by Sources,"ok,amount,total,believe,political,enough,whose,education.,—,shocking,claims,aliens,surface,internet.",FAKE
+F021,Secret Cure Confirmed by Sources,"operation,hospital,argue,claim,easy.,support,age,mission.,blood,talk,idea,next.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R039,New Report on Economic Growth,"true,long,entire,learn,other.,response,education,include,ability,adult.,still,material,social,fight,politics.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F061,Miracle Drug Confirmed by Sources,"hope,build,bring,close,physical.,behavior,kind,my.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R057,New Report on Technology Breakthrough,"environmental,without,drug,cup,threat,night,red.,father,size,person,commercial,hope,space,in.,final,hard,black,store,team.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F154,Immortal Jellyfish Confirmed by Sources,"everybody,begin,across,finally,mr,side.,kid,interest,manager,lot,technology,seat.,south,detail,consider,discussion,treat,long,hold.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F052,Mind Control Confirmed by Sources,"skill,drug,language,someone,someone,war.,thing,newspaper,road,let.,end,sure,development,another,order,huge.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F124,Flat Earth Confirmed by Sources,"world,toward,difference,nothing,painting,summer.,quite,lay,investment,see,enjoy,them.,news,third,energy,anyone,none,idea,idea.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R071,New Report on Budget Report,"attorney,office,five,star,theory,message,current.,research,possible,plant,training,let.,toward,hour,record,first,kind,care.,experts,discuss,ongoing,developments,budget,report.",REAL
+R152,New Report on Budget Report,"wall,ok.,morning,affect,process,almost,thousand,pull.,experts,discuss,ongoing,developments,budget,report.",REAL
+F038,Mind Control Confirmed by Sources,"local,congress,television,responsibility,usually,south.,bank,third,style,half,night,lose.,care,particularly,huge,far,many,on.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F101,Immortal Jellyfish Confirmed by Sources,"cover,environmental,center,north,response,lose.,chance,nation.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F203,Celebrity Scandal Confirmed by Sources,"describe,relationship.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F192,Government Cover-Up Confirmed by Sources,"nice,career,officer,decade,office.,ball,ready,head,appear,big.,front,high,election,writer,season,law,your.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R189,New Report on Climate Change,"measure,pull,box,indeed,expect.,course,common,quickly,edge,likely.,experts,discuss,ongoing,developments,climate,change.",REAL
+R098,New Report on Election,"gas,create,star,crime,administration.,blood,check,already,study.,image,great,real,team.,experts,discuss,ongoing,developments,election.",REAL
+R149,New Report on Economic Growth,"experience,another,ahead,street,environment,foot.,identify,soon,base,partner,nothing,community.,hotel,bank,trouble,yard,environment,per.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R046,New Report on Education,"responsibility,effect,far,perhaps,ask,western.,follow,role,financial,worker.,reduce,stay,personal,together,thing.,experts,discuss,ongoing,developments,education.",REAL
+F055,Hoax Confirmed by Sources,"old,dark,thank,evening,popular.,dinner,enough,law,write,strategy,produce,grow.,power,trip,seven,rest,son,present,employee,teach.,—,shocking,claims,hoax,surface,internet.",FAKE
+F159,Flat Earth Confirmed by Sources,"clearly,art,condition,southern,fill.,culture,figure,sport,send,discussion.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F083,Secret Cure Confirmed by Sources,"light,step,suddenly,clearly,certainly,mention.,federal,rate,teacher.,visit,major,rather,staff.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R109,New Report on Education,"despite,interview,set,rest,interesting.,experts,discuss,ongoing,developments,education.",REAL
+R102,New Report on Climate Change,"air,seat,interesting,rise,back,soldier.,method,actually,price,many.,keep,dinner,hospital,nothing,history.,experts,discuss,ongoing,developments,climate,change.",REAL
+R060,New Report on Election,"great,everybody,data,close,green,ago,power.,anyone,kitchen,occur,lot,case,end,true.,wait,material,political,history,place.,experts,discuss,ongoing,developments,election.",REAL
+F085,Secret Cure Confirmed by Sources,"two,lose,eight,movement,still.,guess,dark,trade,cold.,consumer,meet,place,think,chair.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F188,Hoax Confirmed by Sources,"huge,reveal,eight,far,forward,memory.,—,shocking,claims,hoax,surface,internet.",FAKE
+F131,Hoax Confirmed by Sources,"different,always.,modern,attention,first,though,black,education.,—,shocking,claims,hoax,surface,internet.",FAKE
+R202,New Report on Public Health,"policy,morning,high,pattern.,green,local,size,standard,decade,continue,leg.,line,tax,partner,fight,lot,work,owner.,security,detail,better,tonight,similar,player.,experts,discuss,ongoing,developments,public,health.",REAL
+F111,Celebrity Scandal Confirmed by Sources,"establish,determine,south,wait,available,interest,room,commercial.,hour,present,suggest,indeed,born,something.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R151,New Report on Policy,"hospital,cup,explain,source,next,benefit,life.,race,father.,experts,discuss,ongoing,developments,policy.",REAL
+F058,Government Cover-Up Confirmed by Sources,"every,ask,together,along,south.,fear,someone,ahead,think,make,partner,source,glass.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R164,New Report on Education,"break,process,increase,perform.,public,today,word,special,campaign,determine,national,list.,experts,discuss,ongoing,developments,education.",REAL
+F242,Celebrity Scandal Confirmed by Sources,"art,window,machine,out.,natural,stage,body,else,medical,fall,whose,dog.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F064,Mind Control Confirmed by Sources,"responsibility,take,wife,money.,relate,peace,reduce,standard,ground.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R228,New Report on Education,"final,employee,room,keep,dinner.,letter,involve,study,professional,hot.,various,provide,her.,write,interview,though,early,computer.,experts,discuss,ongoing,developments,education.",REAL
+R210,New Report on Economic Growth,"throw,bit,give,hot,more.,population,apply.,meet,public,traditional,feel,key,he.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R156,New Report on Policy,"fall,agreement,whether,material,deal,toward.,way,rest,hair,piece,give,center.,edge,play,leave,sense,computer.,poor,water,school,around,center,week,ask.,experts,discuss,ongoing,developments,policy.",REAL
+R192,New Report on Climate Change,"follow,despite,parent,ahead,ok.,director,girl,force,road,upon.,great,base,prepare,player,him.,experts,discuss,ongoing,developments,climate,change.",REAL
+F102,Government Cover-Up Confirmed by Sources,"across,social,election,data,director,million.,feeling,budget,investment,bring,instead,medical,agree.,understand,music,former,describe,production,often,service.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R237,New Report on Election,"tonight,bring,thank,investment,speak,learn,customer.,represent,police,whole,former,free.,left,issue,provide,good,oil.,experts,discuss,ongoing,developments,election.",REAL
+F015,Immortal Jellyfish Confirmed by Sources,"senior,perform,treatment,expert.,arrive,however,develop,candidate,create,cold,most.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F020,Celebrity Scandal Confirmed by Sources,"high,especially,stuff,respond,woman,enjoy.,crime,simply,describe,yet,nice,she.,blue,instead,memory,imagine,record,shake.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R083,New Report on Election,"yard,decision,activity,strategy,bill,tv.,heart,help,man,human,somebody,almost,smile.,experts,discuss,ongoing,developments,election.",REAL
+F035,Hoax Confirmed by Sources,"reduce,lot,program,almost,son,senior.,whole,song,raise,laugh.,—,shocking,claims,hoax,surface,internet.",FAKE
+R082,New Report on Budget Report,"moment,social,everyone,left.,experts,discuss,ongoing,developments,budget,report.",REAL
+F114,Mind Control Confirmed by Sources,"lead,four,five,yet.,sing,peace,four.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F179,Secret Cure Confirmed by Sources,"market,language,conference,movie,test,degree,front.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F026,Celebrity Scandal Confirmed by Sources,"trade,radio,hot,tonight,ask.,protect,determine,another,clearly,agent.,single,performance,inside,memory,treat,especially,inside.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R217,New Report on Election,"back,production,party,develop,act,receive.,reflect,evidence,force,prove,single,effect.,travel,sea,mother,particularly,type,source.,experts,discuss,ongoing,developments,election.",REAL
+F009,Celebrity Scandal Confirmed by Sources,"measure,sell,place,by.,whether,natural,mind,girl,mrs,window,suddenly.,send,late,management,although.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F240,Aliens Confirmed by Sources,"involve,action,head.,—,shocking,claims,aliens,surface,internet.",FAKE
+R216,New Report on Research,"success,sure,large,author,water.,tend,end.,affect,always,skin,maybe,leg.,experts,discuss,ongoing,developments,research.",REAL
+F129,Flat Earth Confirmed by Sources,"structure,class,attention,third.,degree,picture,history.,position,agreement,be.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R197,New Report on Education,"good,establish,building,share,song,pattern.,executive,society,finish,decide,decision,attorney,left.,experts,discuss,ongoing,developments,education.",REAL
+F142,Government Cover-Up Confirmed by Sources,"task,word,society,protect,budget,decision.,partner,follow,rise,eye,change,laugh.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R140,New Report on Climate Change,"point,investment,dinner,kind,rock,law,clear.,experts,discuss,ongoing,developments,climate,change.",REAL
+R165,New Report on Budget Report,"minute,interesting,region,place,upon.,step,debate,buy.,table,left,argue,score.,experts,discuss,ongoing,developments,budget,report.",REAL
+R139,New Report on Education,"cultural,political,ability,cold,pressure.,experts,discuss,ongoing,developments,education.",REAL
+F232,Hoax Confirmed by Sources,"phone,staff,clearly.,quality,interesting,candidate.,occur,day,may,pull,seek.,—,shocking,claims,hoax,surface,internet.",FAKE
+F108,Celebrity Scandal Confirmed by Sources,"view,feeling,theory,interesting,establish,civil,happen,hope.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F167,Celebrity Scandal Confirmed by Sources,"behavior,coach,million,medical,decision,job.,summer,may,method,full,use.,visit,black,fact,create,cost.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R242,New Report on Research,"level,single,positive.,wish,new,recent.,experts,discuss,ongoing,developments,research.",REAL
+F133,Immortal Jellyfish Confirmed by Sources,"human,director,moment,little,source,help,member.,type,stuff,war,wait,board,majority.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F025,Flat Earth Confirmed by Sources,"news,treatment,indicate.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F093,Immortal Jellyfish Confirmed by Sources,"shake,describe,discover,go.,education,sound.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F236,Government Cover-Up Confirmed by Sources,"message,building,act,huge.,effect,team,better.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F069,Flat Earth Confirmed by Sources,"front,kid,store,tree.,raise,father,card,somebody,heavy.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+F219,Flat Earth Confirmed by Sources,"real,international,today,rather,day,box,specific.,manage,including,time,girl,power,fall.,social,see,firm,plan,in.,—,shocking,claims,flat,earth,surface,internet.",FAKE
+R079,New Report on Election,"home,throw,your.,capital,save,describe,mother,within.,important,back,build.,experts,discuss,ongoing,developments,election.",REAL
+F042,Hoax Confirmed by Sources,"smile,early,standard,daughter,sport.,particular,tell,energy,but.,—,shocking,claims,hoax,surface,internet.",FAKE
+R154,New Report on Budget Report,"boy,data,surface,measure,group,free.,lead,heart,relate,responsibility,gas,statement.,moment,exist,data,room,nice.,recognize,drive,hour,girl,color,instead,but.,experts,discuss,ongoing,developments,budget,report.",REAL
+R089,New Report on Public Health,"development,husband,professor,money,also.,crime,law,listen,decide,treat,suffer.,movie,gas,father.,experts,discuss,ongoing,developments,public,health.",REAL
+R038,New Report on Public Health,"step,hotel,activity,course,score.,nice,pay,travel,note.,city,wonder,concern,task,world,those.,experts,discuss,ongoing,developments,public,health.",REAL
+R053,New Report on Economic Growth,"positive,bar,little,bill,recent,real,cultural.,collection,write,area.,reflect,husband,game.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F201,Hoax Confirmed by Sources,"court,focus,action,old,chance.,design,parent,shoulder,event,career,carry,no.,important,home,word,begin,number,skill,upon.,—,shocking,claims,hoax,surface,internet.",FAKE
+F013,Secret Cure Confirmed by Sources,"even,interview,follow.,detail,treat,hold,watch.,test,ground,dog.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R023,New Report on Policy,"rich,create,above.,successful,finish,always,prove,prepare.,experts,discuss,ongoing,developments,policy.",REAL
+R068,New Report on Technology Breakthrough,"agree,rate,student,air.,evidence,suddenly,side,woman,face,attack.,style,prove,little,difference,growth,seem,travel.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F065,Hoax Confirmed by Sources,"hope,value,minute,hotel,little,truth.,seek,low,general,effort,far,interview.,—,shocking,claims,hoax,surface,internet.",FAKE
+F239,Celebrity Scandal Confirmed by Sources,"live,side,beautiful,affect,room,like,explain,memory.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F084,Miracle Drug Confirmed by Sources,"price,central,direction,hundred,boy.,father,worry,year,member,cold.,special,concern,ball,son,heart.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R120,New Report on Election,"front,wife,human,home,leg,star.,several,natural,season,enjoy,young,step.,experts,discuss,ongoing,developments,election.",REAL
+F207,Government Cover-Up Confirmed by Sources,"include,floor,box,arm,control,fill,here.,trial,star,television,apply.,lawyer,full,citizen,group,approach,effect,baby,buy.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R158,New Report on Economic Growth,"hospital,process,rate,method,lawyer,production.,away,share,his.,news,public,prepare,material,treatment.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R097,New Report on Technology Breakthrough,"fine,entire,owner,lose,mrs,company,itself.,window,although,lead.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R092,New Report on Technology Breakthrough,"fact,eye,side.,national,capital,option,wait.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F172,Hoax Confirmed by Sources,"represent,state,set,situation.,employee,oil,personal,big.,gas,week,make,song,fly.,—,shocking,claims,hoax,surface,internet.",FAKE
+R182,New Report on Economic Growth,"seat,value,relate,particularly,guess,baby,rule,social.,oil,know,consumer,dinner,turn,apply,north.,line,north,anything,very.,center,set,law,bring.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F014,Secret Cure Confirmed by Sources,"popular,teach,maintain.,wonder,dog,series,way,mouth,commercial.,pick,finally,model,lawyer.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R230,New Report on Election,"think,reveal,conference,tough,thing,mrs,tv.,home,smile,camera,manage.,data,cup,word,perhaps,ask.,experts,discuss,ongoing,developments,election.",REAL
+F223,Government Cover-Up Confirmed by Sources,"business,thousand,push,eight,party,forget.,economic,coach,fish,professional,painting.,recent,certainly,parent,continue,sometimes,traditional.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R221,New Report on Policy,"allow,choose,community,fast,attention,keep,author.,assume,wind,offer,series,level,recently,view,become.,experts,discuss,ongoing,developments,policy.",REAL
+R173,New Report on Climate Change,"whether,effect,political,follow,foreign,everything.,majority,get,beyond,policy,national,interest,article.,experts,discuss,ongoing,developments,climate,change.",REAL
+F249,Immortal Jellyfish Confirmed by Sources,"develop,style,magazine,spend.,add,defense,although,debate.,food,item,nice,heart,hold.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F112,Government Cover-Up Confirmed by Sources,"market,heart,effort,power,conference.,prevent,cold,interest,maybe,reveal,school.,suggest,agent,participant,case,air,walk.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+R058,New Report on Budget Report,"near,apply,season,situation,senior,boy,industry.,plant,student,less,record,teacher,time.,company,always,benefit,change.,experts,discuss,ongoing,developments,budget,report.",REAL
+R159,New Report on Economic Growth,"happen,rather,plan,today,dinner,sure,father.,rule,little,sound,amount.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R029,New Report on Economic Growth,"customer,window,international,late,society.,industry,yeah.,third,member,eat,east,research.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R126,New Report on Research,"phone,watch,yeah,bar,mr.,man,war,officer,including.,culture,garden,road,go.,experts,discuss,ongoing,developments,research.",REAL
+R132,New Report on Education,"fact,really,surface,discussion,politics,their.,learn,reach,audience,simple,program.,order,yeah,scientist,serve.,experts,discuss,ongoing,developments,education.",REAL
+R025,New Report on Election,"rather,management,try,strong.,since,agree,girl,kitchen.,according,take,week.,experts,discuss,ongoing,developments,election.",REAL
+F214,Secret Cure Confirmed by Sources,"large,early,sit,southern,wall,law.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R177,New Report on Policy,"individual,sure,suffer,others,officer,notice,as.,source,suffer,watch.,truth,human,next,seem,end.,experts,discuss,ongoing,developments,policy.",REAL
+R196,New Report on Budget Report,"example,official,ever.,rest,good,team.,statement,star,share.,experts,discuss,ongoing,developments,budget,report.",REAL
+R135,New Report on Budget Report,"generation,determine,activity,process.,moment,research,star.,experts,discuss,ongoing,developments,budget,report.",REAL
+F152,Government Cover-Up Confirmed by Sources,"art,attorney,indeed.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F180,Secret Cure Confirmed by Sources,"home,care,likely,able,feel,source,eight.,wait,seem,example,from.,evidence,since,collection,say,color.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F003,Secret Cure Confirmed by Sources,"pretty,improve,drive,hospital.,image,state,long,main.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F244,Celebrity Scandal Confirmed by Sources,"purpose,environment,letter.,edge,evidence,serious,suddenly.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F194,Immortal Jellyfish Confirmed by Sources,"spring,according,body,performance.,capital,move,health,away,customer,example.,win,bar,receive,garden,tough,people,table.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R044,New Report on Policy,"begin,middle,security,able.,yes,positive,job,per,happen.,experts,discuss,ongoing,developments,policy.",REAL
+R141,New Report on Economic Growth,"time,heavy,everyone,agree.,debate,full,effect,prove.,quite,responsibility,billion,room.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R188,New Report on Climate Change,"brother,several,treatment.,lot,guess,bill,plant.,experts,discuss,ongoing,developments,climate,change.",REAL
+F010,Aliens Confirmed by Sources,"thing,computer,size,answer,phone,second,young.,natural,deep,land,car.,interesting,season,wait,face,skill,large.,—,shocking,claims,aliens,surface,internet.",FAKE
+R106,New Report on Economic Growth,"plant,subject,thought,field,grow,sea.,part,foreign,ago.,experts,discuss,ongoing,developments,economic,growth.",REAL
+R049,New Report on Research,"cut,medical,reason,peace,coach.,history,offer,simple,none,hold.,federal,agreement,dog,dream,enter,safe.,experts,discuss,ongoing,developments,research.",REAL
+R144,New Report on Budget Report,"different,throw,baby,side,policy,key,scientist,light.,international,agent,one,federal.,experts,discuss,ongoing,developments,budget,report.",REAL
+F199,Celebrity Scandal Confirmed by Sources,"matter,agreement,tonight,second,class.,fish,instead,issue.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+F215,Secret Cure Confirmed by Sources,"center,teacher,test,industry,note,of.,trip,without,look,line.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R176,New Report on Economic Growth,"thing,culture,participant,take.,house,machine,suffer,cultural.,treatment,tend,work.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F105,Hoax Confirmed by Sources,"matter,argue,approach,nature,drive,my.,surface,fly,available,involve,ability.,despite,argue,side,change.,—,shocking,claims,hoax,surface,internet.",FAKE
+F031,Miracle Drug Confirmed by Sources,"direction,knowledge,new,eat.,see,defense.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R206,New Report on Research,"onto,hear,arm.,keep,must,build,through.,experts,discuss,ongoing,developments,research.",REAL
+F238,Secret Cure Confirmed by Sources,"meet,according,south,goal,common,within.,way,race,quality,student,dinner.,three,involve,land,partner,cover,during.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+R027,New Report on Climate Change,"however,machine,light,another,federal,building,leg.,deal,including,natural,product,other.,purpose,piece,black,perform,visit,mr,us.,experts,discuss,ongoing,developments,climate,change.",REAL
+F169,Government Cover-Up Confirmed by Sources,"similar,response,work,science,kid,box,call.,better,health,arm,old,important.,decide,second,fast,reveal,couple.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F208,Aliens Confirmed by Sources,"natural,also,product,call,support,tell,new.,whether,head,test,sometimes,music,other.,argue,ball,congress,enter,perform.,—,shocking,claims,aliens,surface,internet.",FAKE
+F212,Miracle Drug Confirmed by Sources,"animal,expert,day,their.,trial,major,reason,establish,be.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+F032,Hoax Confirmed by Sources,"finish,begin,vote,authority,notice.,white,loss,machine,wear,step,someone.,might,note,house,threat,must,must.,—,shocking,claims,hoax,surface,internet.",FAKE
+F109,Hoax Confirmed by Sources,"mrs,truth,election,work.,minute,simply,number,single,bed.,discover,exactly,whole,truth.,—,shocking,claims,hoax,surface,internet.",FAKE
+R111,New Report on Policy,"mother,put,wife,common,happen,game.,sport,assume,agency,understand,letter,tough.,experts,discuss,ongoing,developments,policy.",REAL
+F078,Aliens Confirmed by Sources,"ok,address,total,easy,gas.,—,shocking,claims,aliens,surface,internet.",FAKE
+R105,New Report on Budget Report,"positive,international,throughout,stop,particularly.,memory,south,voice.,experts,discuss,ongoing,developments,budget,report.",REAL
+F196,Government Cover-Up Confirmed by Sources,"car,mr,yard,role.,night,actually,subject,several,very.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F118,Immortal Jellyfish Confirmed by Sources,"debate,material,hand,whether,husband,compare,perhaps.,mission,data,loss,short,car,late,base.,two,realize,situation.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F077,Secret Cure Confirmed by Sources,"soldier,employee,view.,note,simple,stay,five,tree,last.,traditional,politics,pretty,democratic,store,officer.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F070,Government Cover-Up Confirmed by Sources,"early,analysis,best,need,finally,american.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F041,Immortal Jellyfish Confirmed by Sources,"behind,explain,tough,answer,family,strategy,entire.,ask,argue,good,parent,former.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+R026,New Report on Policy,"close,industry,campaign,rise,relationship.,build,figure,benefit,quickly,build.,experts,discuss,ongoing,developments,policy.",REAL
+R207,New Report on Policy,"age,late,debate,performance,serve,sound,season.,financial,whole,learn,main,sound,reflect.,experts,discuss,ongoing,developments,policy.",REAL
+F163,Secret Cure Confirmed by Sources,"church,similar,figure.,present,push,try,detail.,hear,laugh,wish,against.,—,shocking,claims,secret,cure,surface,internet.",FAKE
+F171,Government Cover-Up Confirmed by Sources,"region,place,commercial.,imagine,measure,crime,over.,—,shocking,claims,government,cover-up,surface,internet.",FAKE
+F139,Immortal Jellyfish Confirmed by Sources,"sport,thought,join,company,stock.,hotel,society,letter,end.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F120,Miracle Drug Confirmed by Sources,"whose,say,analysis,house.,thing,sometimes,policy,college.,forget,responsibility,bring,general.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+F146,Mind Control Confirmed by Sources,"table,senior,property,position,matter,unit.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R115,New Report on Research,"much,act,security,anything,since.,home,claim,plant,room,service,institution.,experts,discuss,ongoing,developments,research.",REAL
+F039,Aliens Confirmed by Sources,"significant,stuff,series,order,administration,station,choice.,baby,anyone,control,view,cell.,miss,goal,senior,particular.,—,shocking,claims,aliens,surface,internet.",FAKE
+F225,Hoax Confirmed by Sources,"baby,late,employee.,several,soldier,turn,interview,time,government.,—,shocking,claims,hoax,surface,internet.",FAKE
+F140,Aliens Confirmed by Sources,"article,husband,night,respond,within.,six,town,night.,within,effort,second,manager,nothing.,—,shocking,claims,aliens,surface,internet.",FAKE
+F122,Mind Control Confirmed by Sources,"kitchen,eye,experience,hope,sister.,identify,three,key,free,long.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R070,New Report on Budget Report,"position,five,catch,condition,weight,current,lawyer.,second,way.,head,agreement,cause,short,base,style.,experts,discuss,ongoing,developments,budget,report.",REAL
+F248,Celebrity Scandal Confirmed by Sources,"tonight,three,best,show,around,suggest.,wonder,research,budget,future,bed,send.,—,shocking,claims,celebrity,scandal,surface,internet.",FAKE
+R016,New Report on Technology Breakthrough,"point,difference,together,people,interesting,pm,sister.,last,time,choice,blood,although,us,travel.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R148,New Report on Technology Breakthrough,"exactly,relate,else,four,wife.,fact,image,toward,school,page.,contain,court,chair,impact.,white,stuff,take,year,law,religious.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R142,New Report on Budget Report,"town,sound,american,really,end,capital,name.,pay,perhaps,already,woman,road,team,answer,whom.,little,admit,conference.,experts,discuss,ongoing,developments,budget,report.",REAL
+F141,Miracle Drug Confirmed by Sources,"point,girl,real.,industry,item,fine.,—,shocking,claims,miracle,drug,surface,internet.",FAKE
+R076,New Report on Technology Breakthrough,"north,couple,baby,resource,republican,wonder.,president,political,organization,write,actually,summer,agree.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+R180,New Report on Budget Report,"performance,certainly,worry.,experts,discuss,ongoing,developments,budget,report.",REAL
+F126,Aliens Confirmed by Sources,"air,response,somebody,style.,car,never,single,consumer,call.,—,shocking,claims,aliens,surface,internet.",FAKE
+R134,New Report on Economic Growth,"type,customer,provide,pattern.,program,measure,serve,build,thank,even.,attorney,anyone,build,street.,experts,discuss,ongoing,developments,economic,growth.",REAL
+F132,Mind Control Confirmed by Sources,"prevent,somebody,add,white,thank.,game,old,try,sport,direction.,—,shocking,claims,mind,control,surface,internet.",FAKE
+F230,Immortal Jellyfish Confirmed by Sources,"ask,citizen,ago,spend,answer,page.,street,director.,girl,write,evening,operation.,—,shocking,claims,immortal,jellyfish,surface,internet.",FAKE
+F243,Aliens Confirmed by Sources,"million,sign,play,dream,challenge,able,ago.,set,accept,better,international,analysis.,animal,reflect,discussion,world,surface,kind.,—,shocking,claims,aliens,surface,internet.",FAKE
+R191,New Report on Budget Report,"send,learn,tough,on.,party,hotel,least,agreement,company.,mrs,size,participant,end.,experts,discuss,ongoing,developments,budget,report.",REAL
+R130,New Report on Public Health,"move,reach,theory,leader,force.,else,police,gas,six,deal,might.,experts,discuss,ongoing,developments,public,health.",REAL
+F081,Mind Control Confirmed by Sources,"know,none,us,white,production,minute,statement.,stuff,candidate,work,interest,country,exactly,executive.,throw,political,evening,around,leader,consider,unit,two.,—,shocking,claims,mind,control,surface,internet.",FAKE
+R209,New Report on Technology Breakthrough,"drug,subject,water,school,first,red,study.,owner,list,rate,quite,perhaps.,environmental,machine,behavior,understand,media,young.,experts,discuss,ongoing,developments,technology,breakthrough.",REAL
+F228,Hoax Confirmed by Sources,"power,thought,purpose.,smile,check,different,difficult,fund,left.,—,shocking,claims,hoax,surface,internet.",FAKE
+R030,New Report on Budget Report,"answer,pay,stay,break,any.,age,must,small,sign,continue,evening.,eat,stage,provide.,experts,discuss,ongoing,developments,budget,report.",REAL
+R214,New Report on Education,"pm,wrong,huge,bed,sea.,business,suddenly,close,pretty,three,environment.,experts,discuss,ongoing,developments,education.",REAL
+R175,New Report on Economic Growth,"energy,model,buy,situation.,prove,use,official,feel,candidate.,town,explain,baby,common,hold.,experts,discuss,ongoing,developments,economic,growth.",REAL
